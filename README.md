@@ -32,7 +32,7 @@ For each page, fetch the JSON feed then:
 - Where the entry has a `releaseYear` >= 2010
 - Sorted by title in alphanumeric order (numbers before letters, then A-Z)
 
-Fetch the JSON feed using the object in `movieFeed.js`.
+Fetch the JSON feed using the object in `movieFeed.js`, with `movieFeed.fetch()` which will return a Promise.
 
 For the series page, `programType` should equal `series`.
 
