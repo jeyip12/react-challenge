@@ -10,7 +10,7 @@ Try to spend no more than ~3 hours on this challenge.
 
 Build a web page with 3 screens that displays information about both movies and series. You'll need to read in a JSON file with the data, filter it, and use the relevant fields.
 
-Please include a short `README` with any setup instructions, and any tests or other documentation you created as part of your solution. Feel free to use any React scaffolding library like [create-react-app](https://github.com/facebook/create-react-app), or set it up from scratch.
+Please include a short `README` with any setup instructions, and any tests or other documentation you created as part of your solution. Feel free to use any React scaffolding library like [create-react-app](https://github.com/facebook/create-react-app), or set it up from scratch. You can bring in any additional 3rd-party libraries you'd like.
 
 ## Details
 
