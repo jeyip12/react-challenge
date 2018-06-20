@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import movieFeed from './movieFeed'
+import movieFeed from './feed/movieFeed'
 
 class Series extends Component {
   constructor(props) {
